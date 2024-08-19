@@ -1,5 +1,4 @@
-# wisdom.sh
-Display random quotes from a git repo or a local folder
+### *Display random quotes from a git repo or a local folder*
 
 
 ### Pro Tip
